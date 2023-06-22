@@ -1,0 +1,7 @@
+com\ra\contractsimulator\model\ITTower.class
+com\ra\contractsimulator\service\ContractKafkaProducerService.class
+com\ra\contractsimulator\data\ContractRepository.class
+com\ra\contractsimulator\model\Contract.class
+com\ra\contractsimulator\service\ContractService.class
+com\ra\contractsimulator\ContractsimulatorApplication.class
+com\ra\contractsimulator\model\ContractAmounts.class
